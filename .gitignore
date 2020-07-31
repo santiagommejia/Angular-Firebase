@@ -50,3 +50,5 @@ functions/node_modules
 
 # credentials
 src/environments
+#src/environments/environment.ts
+#src/environments/environment.prod.ts
